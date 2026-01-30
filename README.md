@@ -1,11 +1,10 @@
 # Simple Films API 
 
-API REST simples feita em **Go** usando **Gin**, com dados mockados.
-Projeto criado apenas para **estudo e prática**.
+A simple REST API built in Go using Gin, with mocked data. This project was created for study and practice purposes only.
 
 ---
 
-## Tecnologias
+## Technologies
 
 * Go
 * Gin
@@ -20,9 +19,10 @@ Projeto criado apenas para **estudo e prática**.
 http://localhost:8080/films
 ```
 
-Retorna uma lista de filmes em JSON.
+Returns a list of movies in JSON format.
 
 ---
+
 <img width="1397" height="771" alt="{2613190A-2CDF-4CDE-8A9D-ED0B258BC8DA}" src="https://github.com/user-attachments/assets/20f844bc-a02f-4ecc-a58a-5fd03f7ebb14" />
 
 
